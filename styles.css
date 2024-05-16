@@ -51,8 +51,14 @@ input {
 }
 
 .by {
+    align-items: center;
     color: rgb(87, 160, 91);
     font-size: 17px;
     margin-top: 8rem;
     display: block;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    position: center;
+    justify-content: center;
+    text-align: center;
 }
