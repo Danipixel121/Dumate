@@ -49,7 +49,10 @@ input {
     margin-left: auto;
     margin-right: auto;
 }
-
+#answer {
+    width: 80%;
+    max-width: 300px; /* Limitar el ancho máximo para evitar que el cuadro de texto sea demasiado ancho en pantallas grandes */
+}
 .by {
     align-items: center;
     color: rgb(87, 160, 91);
